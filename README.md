@@ -120,4 +120,8 @@ This principle is about maintaining an auditable map from requirement to generat
 
 ![CC-BY-SA40](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
 
-(C)opright 2025 aschmidt75, CC-BY-SA 4.0 Creative Commons Attribution 4.0 International
+(C)opright 2025 aschmidt75
+
+This is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+You should have received a copy of the license along with this work. If not, see <https://creativecommons.org/licenses/by-sa/4.0/>.
