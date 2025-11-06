@@ -111,6 +111,12 @@ Instead of investing human time to fix AI output, this principle is about refini
 
 This principle is about maintaining an auditable map from requirement to generated artifact to validation result so both humans and LMs can quickly trace back to the original intent when changes (or question, e.g. in case of errors) arise. This can be made possible by assigning unique identifiers to requirements and asking the LM to output references in code as comments.
 
+
+# Details
+
+
+* [Requirements Engineering](./ka-requirements.md)
+
 # References
 
 - [Software Engineering Body of Knowledge (SWEBOKv4)](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf) [SWEBOK]
