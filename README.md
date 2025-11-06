@@ -115,6 +115,7 @@ This principle is about maintaining an auditable map from requirement to generat
 
 This chapter points to detailed information, organized along the Software Development Lifecycle and the Knowledge Areas of SWEBOK.
 
+* [Requirements Engineering](./ka-requirements.md)
 * [Software Architecture](./ka-software-architecture.md)
 
 # References
