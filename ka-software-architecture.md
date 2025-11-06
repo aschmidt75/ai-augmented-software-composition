@@ -26,7 +26,7 @@ It should point to publicly available and well-defined architectural patterns, i
 There are many driving forces for determining the software architecture of the solution
 - Primary stakeholder concerns
 - Company/IT governance models
-- The environment the solution is working in, regarding its influences to it.
+- The environment in which the solution is working in, regarding its influences to it.
 - Any of the requirements found so far in the requirements engineering process
 
 # Integrating Generative AI
@@ -59,7 +59,7 @@ The primary outputs of this process should be:
 
 ## Usage of Reasoning models 
 
-> Use LLMs with reasoning capabilities to detail out or even find System Architecture Patterns and Descriptions
+> Use LLMs with reasoning capabilities to find and detail out System Architecture Patterns and Descriptions
 
 ## Identify new (nonfunctional) requirements and constraints
 
