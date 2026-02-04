@@ -124,7 +124,7 @@ This chapter points to detailed information, organized along the Software Develo
 - [Womack, J. P., & Jones, D. T. (1996). Lean Thinking: Banish Waste and Create Wealth in Your Corporation. Simon & Schuster](https://www.lean.org/store/book/lean-thinking-2nd-edition) [LEAN]
 - [Effective Context Engineering for AI Agents (Anthropic)](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) [EFFCONTENG]
 - [LLMs: The Illusion of Thinking](https://jso.eecs.yorku.ca/2025/09/07/llms-the-illusion-of-thinking/) Part "AI and Software Engineering" [ILLUSTHINK]
-
+- [Semantic Anchors for LLMs](https://github.com/LLM-Coding/Semantic-Anchors)
 # License
 
 ![CC-BY-SA40](https://licensebuttons.net/l/by-sa/4.0/88x31.png)
