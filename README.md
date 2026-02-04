@@ -111,10 +111,19 @@ Instead of investing human time to fix AI output, this principle is about refini
 
 This principle is about maintaining an auditable map from requirement to generated artifact to validation result so both humans and LMs can quickly trace back to the original intent when changes (or question, e.g. in case of errors) arise. This can be made possible by assigning unique identifiers to requirements and asking the LM to output references in code as comments.
 
+# Details
+
+This chapter points to detailed information, organized along the Software Development Lifecycle and the Knowledge Areas of SWEBOK.
+
+* [Requirements Engineering](./ka-requirements.md)
+* [Software Architecture](./ka-software-architecture.md)
+
 # References
 
 - [Software Engineering Body of Knowledge (SWEBOKv4)](https://ieeecs-media.computer.org/media/education/swebok/swebok-v4.pdf) [SWEBOK]
 - [Womack, J. P., & Jones, D. T. (1996). Lean Thinking: Banish Waste and Create Wealth in Your Corporation. Simon & Schuster](https://www.lean.org/store/book/lean-thinking-2nd-edition) [LEAN]
+- [Effective Context Engineering for AI Agents (Anthropic)](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) [EFFCONTENG]
+- [LLMs: The Illusion of Thinking](https://jso.eecs.yorku.ca/2025/09/07/llms-the-illusion-of-thinking/) Part "AI and Software Engineering" [ILLUSTHINK]
 
 # License
 
