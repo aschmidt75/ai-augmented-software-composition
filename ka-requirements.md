@@ -32,7 +32,7 @@ There are different categorisation systems for nonfunctional requirements. Examp
 
 ### Uniform pattern for use case specification
 
-* [EAST (Easy Approach to Requirements Syntax)](https://alistairmavin.com/ears/)
+* [EARS (Easy Approach to Requirements Syntax)](https://alistairmavin.com/ears/)
 
 > When specifying use cases, use a template with a semi-formal pattern, uniform across the solution.
 

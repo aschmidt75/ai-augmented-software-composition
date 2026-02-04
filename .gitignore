@@ -2,3 +2,5 @@ BACKLOG.md
 .DS_Store
 **/.DS_Store
 **/.$*.bkp
+**/.*.bkp
+.vale.ini
